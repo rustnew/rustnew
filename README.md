@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps/AiOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
 
 ### MLOps / AIOps Engineer · Rust Backend · AI Compiler Builder
 
