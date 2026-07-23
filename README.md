@@ -59,9 +59,11 @@ I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=rustnew&theme=dark&hide_border=true&border_radius=4.5" alt="GitHub Streak Stats" />
-  </a>
+<img src="https://streak-stats.demolab.com/?user=rustnew&theme=dark&hide_border=true&border_radius=4.5" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rustnew&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
