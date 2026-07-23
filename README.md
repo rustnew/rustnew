@@ -58,6 +58,12 @@ I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustnew&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </div>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=rustnew&theme=dark&hide_border=true&border_radius=4.5" alt="GitHub Streak Stats" />
+  </a>
+</div>
+
 ---
 
 ## Currently
