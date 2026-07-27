@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps%2FAIOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps/AIOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
 
 ### MLOps / AIOps Engineer · Rust Backend · AI Compiler Builder
 
@@ -18,13 +18,13 @@
 
 ## About
 
-I'm a **systems-first AI engineer** and a **Master's student in Data Science and Artificial Intelligence**. Instead of focusing only on models, I focus on what makes them run efficiently in production: distributed GPU orchestration, KV-cache routing, compiler-level cost prediction, and low-level Rust performance.
+I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus on what makes them run efficiently in production: distributed GPU orchestration, KV-cache routing, compiler-level cost prediction, and low-level Rust performance.
 
+- 🎓 **Bachelor's degree in Artificial Intelligence**, currently completing a **Master's in Data Science & Artificial Intelligence**
 - 🦀 **4+ production-grade Rust systems** shipped — from Kubernetes controllers to CNNs, with zero Python runtime dependency
 - ⚙️ Building **sovereign MLOps infrastructure** (vLLM, LMCache, llm-d, K8s) to run LLMs efficiently on mid-tier GPU hardware
 - 🧮 Building **NEURAX**, a static analytical compiler that predicts FLOPs/VRAM/cost of any neural net before it loads
 - 🔎 Open to **MLOps / Platform / Rust backend engineering roles** and infrastructure consulting
-- 🎓 **Master's student in Data Science and AI** — bridging the gap between academic research and industrial-scale AI systems
 
 ---
 
