@@ -21,9 +21,9 @@
 I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus on what makes them run efficiently in production: distributed GPU orchestration, KV-cache routing, compiler-level cost prediction, and low-level Rust performance.
 
 - 🎓 **Bachelor's degree in Artificial Intelligence**, currently completing a **Master's in Data Science & Artificial Intelligence**
-- 🦀 **4+ production-grade Rust systems** shipped — from Kubernetes controllers to CNNs, with zero Python runtime dependency
-- ⚙️ Building **sovereign MLOps infrastructure** (vLLM, LMCache, llm-d, K8s) to run LLMs efficiently on mid-tier GPU hardware
-- 🧮 Building **NEURAX**, a static analytical compiler that predicts FLOPs/VRAM/cost of any neural net before it loads
+- 🦀 **Rust systems builder** — from neural networks written from scratch to sub-100µs trading engines, with zero unnecessary Python runtime dependency
+- ⚙️ Currently **MLOps Engineer at Adorsys**
+- 🧮 Building **NEURAX**, an analytical compiler that predicts FLOPs/VRAM/cost of any neural net before it loads
 - 🔎 Open to **MLOps / Platform / Rust backend engineering roles** and infrastructure consulting
 
 ---
@@ -41,14 +41,15 @@ I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus
 
 ## Featured Projects
 
+*Selected from [github.com/rustnew](https://github.com/rustnew/repositories) for technical depth and relevance to production AI infrastructure.*
+
 | Project | Stack | Impact |
 | :--- | :--- | :--- |
-| **[Custom-Ai-Ops](https://github.com/rustnew/Custom-Ai-Ops)** | Rust · K8s · vLLM · LMCache · llm-d | Sovereign MLOps platform: cache-aware routing, hierarchical KV-cache (L0/L1/L2), self-healing controllers, FinOps dashboards |
-| **[NEURAX](https://github.com/rustnew/NEURAX)** | Rust · MLIR · LLVM | Static analytical compiler — predicts FLOPs, VRAM, latency & training cost before a model ever loads |
-| **[Lift](https://github.com/rustnew/Lift)** | Rust · IR · Quantum | Unified IR bridging classical tensor ops and quantum gate ops → exports to ONNX, LLVM, OpenQASM |
-| **[SAPGGO](https://github.com/rustnew/SAPGGO)** | Rust · MuJoCo · PPO | RL agent learning bipedal walking on rough terrain with dynamic balance |
-| **[Malaria Detection AI](https://github.com/rustnew/Malaria_model_2)** | Rust · Burn · CNN | Medical image classifier (parasitized vs. uninfected blood cells) — pure Rust, no Python runtime |
-| **[Rust_network](https://github.com/rustnew/Rust_network)** | Rust · ndarray | Neural net built from scratch (forward/backward pass, autodiff) for financial time-series prediction |
+| **[NEURAX](https://github.com/rustnew/NEURAX)** | Compiler design · MLIR/LLVM concepts | Analytical compiler that predicts FLOPs, VRAM, latency & cost of a neural net before it ever runs |
+| **[Lift](https://github.com/rustnew/Lift)** | Rust · Custom IR | Next-gen intermediate representation bridging high-level ML frameworks and heterogeneous hardware (GPU, QPU) |
+| **[Witch-Bridge (Rust ⇄ C++)](https://github.com/rustnew/Combine_Rust_and_C-_Witch_Bridge_CXX)** | Rust · C++ · GGUF | Hybrid algorithmic trading engine with local AI inference, tuned for deterministic sub-100µs tick-to-trade latency |
+| **[Rust_network](https://github.com/rustnew/Rust_network)** | Rust · ndarray | Neural network built from scratch — forward/backward pass, autodiff — no ML framework dependency |
+| **[Malaria_model_2](https://github.com/rustnew/Malaria_model_2)** | Rust · Burn · CNN | Automated malaria detection from blood smear images via a CNN, fully implemented in Rust with Burn |
 
 ---
 
@@ -71,9 +72,9 @@ I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus
 
 ## Currently
 
-Building **Custom-Ai-Ops**, a reference architecture for sovereign AI infrastructure — an open-source, turnkey MLOps platform designed to run efficiently on mid-tier GPU hardware (RTX A2000/A4000), cutting reliance on hyperscalers while keeping data local and cost-controlled.
+Building **NEURAX**, a static analytical compiler for neural network architectures — predicting compute cost, memory footprint, and latency before a model ever loads, to help teams plan AI infrastructure spend before committing hardware.
 
-**Active R&D:** Prefill/Decode disaggregation with Rust sidecars · GPU cost-model compilers (NEURAX) · Edge-AI on ARM.
+**Active R&D:** AI compiler design (NEURAX) · cross-language AI inference bridges (Rust/C++) · low-level neural network implementations in Rust.
 
 ---
 
