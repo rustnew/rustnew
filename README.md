@@ -2,14 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps%2FAIOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
 
-### 🎓 MSc Data Science & AI · 🖥️ MLOps/AIOps/FinOps Engineer · 🦀 Rust Systems Architect
+### MLOps / AIOps Engineer · Rust Backend · AI Compiler Builder
 
 [![GitHub followers](https://img.shields.io/github/followers/rustnew?label=Follow&style=social)](https://github.com/rustnew)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![LLVM](https://img.shields.io/badge/-MLIR%2FLLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![SGLang](https://img.shields.io/badge/-SGLang-5673CE?style=flat-square&logo=python&logoColor=white)
 
 [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) · [Email](mailto:your-email@domain.com) · [Mastodon](https://hachyderm.io/@rustnew)
 
@@ -19,14 +18,13 @@
 
 ## About
 
-I'm a **systems-first AI engineer**, blending advanced academic research with production-grade systems engineering. I work as a freelance **MLOps/AIOps/FinOps engineer** at **ADORSYS (Germany)**, where I design and optimize sovereign LLM inference infrastructure. I am also pursuing a **Master's degree in Data Science and Artificial Intelligence**, grounding every engineering decision in both mathematical rigor and practical systems performance.
+I'm a **systems-first AI engineer** and a **Master's student in Data Science and Artificial Intelligence**. Instead of focusing only on models, I focus on what makes them run efficiently in production: distributed GPU orchestration, KV-cache routing, compiler-level cost prediction, and low-level Rust performance.
 
-- 🎓 **MSc in Data Science & AI** — bridging theoretical AI with production infrastructure.
-- 💼 **Freelance MLOps/AIOps/FinOps @ ADORSYS** — deploying `ai-helm` (vLLM, LMCache, llm-d, SGLang) on sovereign GPU clusters for 500+ employees.
-- 🦀 **4+ production-grade Rust systems** shipped — from Kubernetes controllers to CNNs, with zero Python runtime dependency.
-- ⚙️ Building **sovereign MLOps infrastructure** (vLLM, LMCache, llm-d, K8s) to run LLMs efficiently on mid-tier GPU hardware.
-- 🧮 Building **NEURAX**, a static analytical compiler that predicts FLOPs/VRAM/cost of any neural net before it loads.
-- 🔎 Open to **MLOps / Platform / Rust backend engineering roles** and infrastructure consulting.
+- 🦀 **4+ production-grade Rust systems** shipped — from Kubernetes controllers to CNNs, with zero Python runtime dependency
+- ⚙️ Building **sovereign MLOps infrastructure** (vLLM, LMCache, llm-d, K8s) to run LLMs efficiently on mid-tier GPU hardware
+- 🧮 Building **NEURAX**, a static analytical compiler that predicts FLOPs/VRAM/cost of any neural net before it loads
+- 🔎 Open to **MLOps / Platform / Rust backend engineering roles** and infrastructure consulting
+- 🎓 **Master's student in Data Science and AI** — bridging the gap between academic research and industrial-scale AI systems
 
 ---
 
@@ -34,7 +32,7 @@ I'm a **systems-first AI engineer**, blending advanced academic research with pr
 
 | Domain | Stack |
 | :--- | :--- |
-| **MLOps / Infra** | Kubernetes · Helm · vLLM · LMCache · llm-d · SGLang · KEDA · Karpenter · Prometheus · Grafana |
+| **MLOps / Infra** | Kubernetes · Helm · vLLM · LMCache · llm-d · KEDA · Karpenter · Prometheus · Grafana |
 | **Rust Backend** | Tokio · Actix-web · `kube-rs` · candle · serde · Rayon |
 | **AI Compilation** | MLIR · LLVM · CUDA · Triton · ONNX · custom IR design |
 | **ML Engineering** | PyTorch · TensorFlow · Burn · MuJoCo/PPO · CNN/LSTM |
@@ -73,9 +71,7 @@ I'm a **systems-first AI engineer**, blending advanced academic research with pr
 
 ## Currently
 
-Currently working as a freelance **MLOps/AIOps/FinOps engineer** at **ADORSYS (Germany)**, delivering `ai-helm` — a sovereign, production-grade GPU inference platform (vLLM + LMCache + llm-d + SGLang) for 500+ employees, with a strong focus on FinOps and energy optimization (ROI > 3,000%).
-
-Simultaneously, I am finalizing my **Master's in Data Science and Artificial Intelligence**, focusing on the intersection of compiler optimization and distributed AI systems.
+Building **Custom-Ai-Ops**, a reference architecture for sovereign AI infrastructure — an open-source, turnkey MLOps platform designed to run efficiently on mid-tier GPU hardware (RTX A2000/A4000), cutting reliance on hyperscalers while keeping data local and cost-controlled.
 
 **Active R&D:** Prefill/Decode disaggregation with Rust sidecars · GPU cost-model compilers (NEURAX) · Edge-AI on ARM.
 
