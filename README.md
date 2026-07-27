@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps/AiOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps%2FAIOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
 
-### MLOps / AIOps Engineer · Rust Backend · AI Compiler Builder
+### MLOps / AIOps Engineer · Rust Backend · AI Compiler Builder · MSc in Data Science & AI
 
 [![GitHub followers](https://img.shields.io/github/followers/rustnew?label=Follow&style=social)](https://github.com/rustnew)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -18,8 +18,9 @@
 
 ## About
 
-I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus on what makes them run efficiently in production: distributed GPU orchestration, KV-cache routing, compiler-level cost prediction, and low-level Rust performance.
+I'm a **systems-first AI engineer** and **MSc candidate in Data Science & Artificial Intelligence**. Instead of focusing only on models, I focus on what makes them run efficiently in production: distributed GPU orchestration, KV-cache routing, compiler-level cost prediction, and low-level Rust performance. My academic background bridges the gap between cutting-edge AI research and production-grade engineering.
 
+- 🎓 **MSc in Data Science & AI** — combining theoretical foundations (statistics, ML algorithms, optimization) with practical AI engineering (deep learning, LLMs, computer vision, reinforcement learning)
 - 🦀 **4+ production-grade Rust systems** shipped — from Kubernetes controllers to CNNs, with zero Python runtime dependency
 - ⚙️ Building **sovereign MLOps infrastructure** (vLLM, LMCache, llm-d, K8s) to run LLMs efficiently on mid-tier GPU hardware
 - 🧮 Building **NEURAX**, a static analytical compiler that predicts FLOPs/VRAM/cost of any neural net before it loads
@@ -70,7 +71,7 @@ I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus
 
 ## Currently
 
-Building **Custom-Ai-Ops**, a reference architecture for sovereign AI infrastructure — an open-source, turnkey MLOps platform designed to run efficiently on mid-tier GPU hardware (RTX A2000/A4000), cutting reliance on hyperscalers while keeping data local and cost-controlled.
+Building **Custom-Ai-Ops**, a reference architecture for sovereign AI infrastructure — an open-source, turnkey MLOps platform designed to run efficiently on mid-tier GPU hardware (RTX A2000/A4000), cutting reliance on hyperscalers while keeping data local and cost-controlled. At the same time, I'm deepening my theoretical foundations through my MSc in Data Science & AI, bridging academic research with industrial AI engineering.
 
 **Active R&D:** Prefill/Decode disaggregation with Rust sidecars · GPU cost-model compilers (NEURAX) · Edge-AI on ARM.
 
