@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps/AIOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=780&lines=Martial+Fossouo+%E2%80%94+MLOps%2FAIOps+%2F+Rust+Systems+Engineer;I+build+the+infra+that+makes+AI+run+in+production;From+kernel+to+cluster." alt="Typing SVG" />
 
-### MLOps / AIOps Engineer · Rust Backend · AI Compiler Builder
+### MLOps / AIOps Engineer · Rust Backend · AI Compiler & Systems Builder
 
 [![GitHub followers](https://img.shields.io/github/followers/rustnew?label=Follow&style=social)](https://github.com/rustnew)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![LLVM](https://img.shields.io/badge/-MLIR%2FLLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-[LinkedIn](https://linkedin.com/in/YOUR-PROFILE) · [Email](mailto:your-email@domain.com) · [Mastodon](https://hachyderm.io/@rustnew)
 
 </div>
 
@@ -23,7 +21,7 @@ I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus
 - 🎓 **Bachelor's degree in Artificial Intelligence**, currently completing a **Master's in Data Science & Artificial Intelligence**
 - 🦀 **Rust systems builder** — from neural networks written from scratch to sub-100µs trading engines, with zero unnecessary Python runtime dependency
 - ⚙️ Currently **MLOps Engineer at Adorsys**
-- 🧮 Building **NEURAX**, an analytical compiler that predicts FLOPs/VRAM/cost of any neural net before it loads
+- 🧠 Building compiler-grade tooling for AI infrastructure: intermediate representations, model-format interoperability, and inference-cost analysis
 - 🔎 Open to **MLOps / Platform / Rust backend engineering roles** and infrastructure consulting
 
 ---
@@ -41,15 +39,14 @@ I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus
 
 ## Featured Projects
 
-*Selected from [github.com/rustnew](https://github.com/rustnew/repositories) for technical depth and relevance to production AI infrastructure.*
+*Selected from [github.com/rustnew](https://github.com/rustnew?tab=repositories) for technical depth.*
 
-| Project | Stack | Impact |
+| Project | Stack | What it is |
 | :--- | :--- | :--- |
-| **[NEURAX](https://github.com/rustnew/NEURAX)** | Compiler design · MLIR/LLVM concepts | Analytical compiler that predicts FLOPs, VRAM, latency & cost of a neural net before it ever runs |
-| **[Lift](https://github.com/rustnew/Lift)** | Rust · Custom IR | Next-gen intermediate representation bridging high-level ML frameworks and heterogeneous hardware (GPU, QPU) |
-| **[Witch-Bridge (Rust ⇄ C++)](https://github.com/rustnew/Combine_Rust_and_C-_Witch_Bridge_CXX)** | Rust · C++ · GGUF | Hybrid algorithmic trading engine with local AI inference, tuned for deterministic sub-100µs tick-to-trade latency |
-| **[Rust_network](https://github.com/rustnew/Rust_network)** | Rust · ndarray | Neural network built from scratch — forward/backward pass, autodiff — no ML framework dependency |
-| **[Malaria_model_2](https://github.com/rustnew/Malaria_model_2)** | Rust · Burn · CNN | Automated malaria detection from blood smear images via a CNN, fully implemented in Rust with Burn |
+| **[Lift](https://github.com/rustnew/Lift)** | Rust · Custom SSA IR | A compiler framework built around one unified intermediate representation for both classical AI and quantum workloads — 13 optimization passes, O0–O3 pipelines, and LLVM/ONNX/QASM backends |
+| **[UMC](https://github.com/rustnew/UMC)** | Rust · GGUF/ONNX/SafeTensors | Universal Model Converter — moves AI model weights between formats (GGUF, ONNX, SafeTensors, and others) without silent quality loss, with the conversion's correctness kept verifiable rather than assumed |
+| **[Rust_network](https://github.com/rustnew/Rust_network)** | Rust · from scratch | A deep neural network implemented from first principles — forward pass, backpropagation, and training loop, no ML framework underneath |
+| **[precog-trainability](https://github.com/rustnew/precog-trainability)** | Python · zero-cost NAS proxies | Research on whether signals computed on an *untrained* network can predict which hyperparameters will train well — reported alongside a headline result the project's own larger sample walked back, and a proxy that provably can't recommend one of its candidate methods |
 
 ---
 
@@ -67,14 +64,6 @@ I'm a **systems-first AI engineer**. Instead of focusing only on models, I focus
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rustnew&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
-
----
-
-## Currently
-
-Building **NEURAX**, a static analytical compiler for neural network architectures — predicting compute cost, memory footprint, and latency before a model ever loads, to help teams plan AI infrastructure spend before committing hardware.
-
-**Active R&D:** AI compiler design (NEURAX) · cross-language AI inference bridges (Rust/C++) · low-level neural network implementations in Rust.
 
 ---
 
